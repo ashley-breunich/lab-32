@@ -6,10 +6,8 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/ashley-breunich/lab-32)
+* [Code Sandbox](https://codesandbox.io/s/9yloovk4mr)
 
 ### Modules
 #### `modulename.js`
@@ -25,13 +23,6 @@ Usage Notes or examples
 #### `.env` requirements
 * `PORT` - Port Number
 * `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
 
 #### Tests
 * How do you run tests?
