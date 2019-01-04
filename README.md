@@ -1,9 +1,9 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 32
 
-### Author: Student/Group Name
+### Author: Ashley Breunich
 
 ### Links and Resources
 * [repo](https://github.com/ashley-breunich/lab-32)
